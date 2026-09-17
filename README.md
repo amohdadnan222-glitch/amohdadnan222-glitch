@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adnan
+# 👋 Hi, I'm Mohd. Adnan Ansari
 
 ### 🎓 B.Tech Information Technology Student | 🤖 AI/ML Enthusiast | 🐍 Python Developer
 
